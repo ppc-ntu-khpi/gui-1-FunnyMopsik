@@ -15,14 +15,14 @@
 5. Вивчіть вихідний код у файлі, впевніться, що ви розумієте як він має працювати
 6. Запустіть проект у звичайний спосіб. Ви маєте побачити вікно, в якому можна обрати одного з клієнтів банку, і натиснувши кнопку *Show*, побачити інформацію про нього. Продемонстрируйте результат викладачеві.
 ### Працездатність:
-![](https://github.com/ppc-ntu-khpi/gui-1-DanyloDonets/blob/master/mark_3.png)
+![](https://github.com/ppc-ntu-khpi/gui-1-FunnyMopsik/blob/master/mark_3.png)
 
 ## На "п'ять"
 1. Додайте ще одну кнопку - *Report*, яка має виводити у нижній частині вікна звіт за клієнтами такого ж виду, як у роботі номер 8 (див. CustomerReport). 
 2. Запустіть проект, впевніться, що все працює як очікувалось. Продемонстрируйте результат викладачеві.
 ### Працездатність:
-![](https://github.com/ppc-ntu-khpi/gui-1-DanyloDonets/blob/master/mark_5(1).png)
-![](https://github.com/ppc-ntu-khpi/gui-1-DanyloDonets/blob/master/mark_5(2).png)
+![](https://github.com/ppc-ntu-khpi/gui-1-FunnyMopsik/blob/master/mark_5(1).png)
+![](https://github.com/ppc-ntu-khpi/gui-1-FunnyMopsik/blob/master/mark_5(2).png)
 
 
 ![](working.png)
